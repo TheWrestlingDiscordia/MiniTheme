@@ -1,0 +1,2 @@
+# MiniTheme
+MiniTheme For #BetterDiscord
