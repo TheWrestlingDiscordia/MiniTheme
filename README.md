@@ -1,6 +1,7 @@
 # MiniTheme
 MiniTheme For #BetterDiscord
 <br>![1](https://vgy.me/hFEFSL.png)<br>
+<br>![](https://vgy.me/1zqDCl.png)<br>
 ![Preview1](https://vgy.me/QN440g.png)
 ![1](https://vgy.me/JpjY76.png)
 ![1](https://vgy.me/1jssPL.png)
