@@ -1,4 +1,4 @@
-# MiniTheme
+<h3><a href="https://thewrestlingdiscordia.github.io/invite/"><img alt="Discord server" src="https://discordapp.com/api/guilds/377657345678901248/widget.png?style=banner4" /></a></h3># MiniTheme
 MiniTheme For #BetterDiscord
 <br>![1](https://vgy.me/hFEFSL.png)<br>
 <br>![](https://vgy.me/1zqDCl.png)<br>
